@@ -24,7 +24,7 @@ Our goal in this project is to create tools to allow the conversion of raw biodi
 
 ## Sub Projects
 
-{% for post in site.categories.biodiv %}
+{% for post in site.tags.biodiv %}
   {% include _pagination_small.html %}
 {% endfor %}
 
