@@ -28,12 +28,9 @@ To answer this question, We also need to find an answer to the following questio
 • How can we improve the location accuracy of biodiversity data?
 
 • How to improve the trust in biodiversity data?
+
 ## Sub Projects
 
 {% for post in site.categories.biodiv %}
   {% include _pagination_small.html %}
 {% endfor %}
-
-### All Projects
-
-{% include list-posts tag='project' %}
