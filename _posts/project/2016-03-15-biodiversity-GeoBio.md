@@ -7,6 +7,7 @@ categories:
     - subproject
 tags:
     - subproject
+    - biodiv
 image:
    thumb: "biodiv-small.jpg"
 header:
@@ -22,11 +23,11 @@ The main question is:
 
 To answer this question, We also need to find an answer to the following questions:
 
-• How can we improve the interoperability of the biodiversity data? 
+• How can we improve the interoperability of the biodiversity data?
 
 • How can we improve the location accuracy of biodiversity data?
 
-• How to improve the trust in biodiversity data? 
+• How to improve the trust in biodiversity data?
 ## Sub Projects
 
 {% for post in site.categories.biodiv %}
