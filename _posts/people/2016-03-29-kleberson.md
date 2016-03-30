@@ -12,7 +12,7 @@ tags:
 image:
    thumb: "kleberson.jpg"
 header:
-    image_fullwidth: "kleberson.jpg"
+    image_fullwidth: "encontro-das-aguas-santarem"
 breadcrumb: true
 ---
 ![Kleberson's photo](/images/kleberson.jpg)
