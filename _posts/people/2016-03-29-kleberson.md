@@ -15,7 +15,7 @@ header:
     image_fullwidth: "encontro-das-aguas-santarem.jpg"
 breadcrumb: true
 ---
-![Kleberson's photo](/images/kleberson.jpg)
+![Kleberson's photo](/images/kleberson-medium.jpg)
 
 ### Resume
 
