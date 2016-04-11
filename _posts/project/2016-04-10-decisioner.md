@@ -5,6 +5,7 @@ subheadline:  "Decision support system generator"
 teaser: "DSL that allows management of expert domain and user interfaces ontologies to generate web decision support systems."
 categories:
     - subproject
+    - dsl
 tags:
     - dsl
 header:
