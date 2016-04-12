@@ -21,6 +21,8 @@ This technology will provide a specific language and knowledge representation ba
 * Definition of formula 
 * Report specification
 
+The DSL describes how the web support system will be generated, allowing the definition of evaluation objects and its properties, each one of the properties are defined in ontologies that represent the behavior of object and a widget that defines the representation in GUIs.
+
 ### [DSL](/project/dsl) Subprojects
 
 {% include list-posts tag='dsl' %}
