@@ -49,3 +49,9 @@ We are a team of very committed people!
     {% include _pagination_small.html %}
   {% endif %}
 {% endfor %}
+
+## Former Students
+
+{% for post in site.categories.formerPeople %}
+  {% include _pagination_small.html %}
+{% endfor %}
