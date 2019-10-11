@@ -52,6 +52,6 @@ We are a team of very committed people!
 
 ## Former Students
 
-{% for post in site.categories.formerPeople %}
-  {% include _pagination_small.html %}
+{% for post in site.categories.former-people %}
+    {% include _pagination_small.html %}
 {% endfor %}

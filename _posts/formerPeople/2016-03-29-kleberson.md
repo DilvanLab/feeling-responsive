@@ -4,8 +4,7 @@ title:  "Kleberson Junio do Amaral Serique"
 subheadline:  "Ph.D. candidate at Institute of Mathematics and Computer Science (ICMC) of the University of São Paulo (USP) in Brazil."
 teaser: "I'm a PhD candidate in Computer Science at the Institute of Mathematics and Computer Science (ICMC) of the University of São Paulo (USP)."
 categories:
-    - people
-    - phd
+    - former-people
 tags:
     - people
     - phd
